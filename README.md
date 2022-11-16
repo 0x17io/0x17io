@@ -9,8 +9,10 @@ For ease of navigation, here is a list of my main projects
 
 ### Mathematical Explorations
   - [Vector Based Search Engine](https://github.com/0x17io/optimized_SearchEngine)
+  
 ### Machine Learning Projects
   - [Common Lisp Machine Learning](https://github.com/0x17io/RevivingCommonLispML)
+  
 ### Cryptography Projects
   - [Python DES Implementation](https://github.com/0x17io/python_des_implementation)
   - [C++ RSA Implementation](https://github.com/0x17io/basic_rsa)
