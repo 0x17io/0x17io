@@ -1,6 +1,7 @@
-title: [Espinoza]
-description: [Personal site holding various projects.]
-show_downloads: ["false"]
+title: Espinoza
+logo: /assests/img/lambda.png
+description: Personal site holding various projects.
+show_downloads: "false"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
