@@ -1,6 +1,6 @@
 # Welcome
 
-## Brief Description
+## A Little About Me
 
 Currently a mathematics and computer science teacher at the [La Joya High School](https://ljhs.lajoyaisd.com/). Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/jose-ruben-espinoza/). My primarily programming languages of choice are Python and Rust. General intrests include deep learning applications, cybersecurity, and networking. In my spare time I also help local business owners set up an online presence. 
 
