@@ -19,4 +19,4 @@ For ease of navigation, here is a list of my main projects:
   - [Database Implementation](https://github.com/0x17io/database_servicez)
 
 ## Coding Practice
-In June 2023 I started a LeetCode goal of hit top 10% of coders. Feel free to follow me on that journey: [LeetCode profile](https://leetcode.com/user4114VQ/). I'm aiming to solve a problems consistently.
+In June 2023 I started a LeetCode goal of hit top 10% of coders. Feel free to follow me on that journey: [LeetCode profile](https://leetcode.com/user4114VQ/). I'm aiming to solve problems consistently.
