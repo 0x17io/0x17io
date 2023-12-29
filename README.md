@@ -19,4 +19,4 @@ For ease of navigation, here is a list of my main projects:
   - [Database Implementation](https://github.com/0x17io/database_servicez)
 
 ## Coding Practice
-In June 2023 I started a LeetCode goal of hit top 10% of coders. Feel free to follow me on that journey: [LeetCode profile](https://leetcode.com/0x17io/). I'm aiming to solve problems consistently.
+I ocassionally practice my coding skills on LeetCode, feel free to check out my [LeetCode profile](https://leetcode.com/0x17io/). I aim to solve problems during my downtime. I have also been a Texas UIL Computer Science coach for the past couple of years, I now use [PC^2](https://pc2ccs.github.io/) to run competitions, feel free to reach out if you would like for me to host your competitions.
