@@ -19,4 +19,4 @@ For ease of navigation, here is a list of my main projects:
   - [Database Implementation](https://github.com/0x17io/database_servicez)
 
 ## Coding Practice
-I ocassionally practice my coding skills on LeetCode, feel free to check out my [LeetCode profile](https://leetcode.com/0x17io/). I aim to solve problems during my downtime. I have also been a Texas UIL Computer Science coach for the past couple of years, I now use [PC^2](https://pc2ccs.github.io/) to run competitions, feel free to reach out if you're looking for someone to run your competitions.
+I ocassionally practice my coding skills on LeetCode, feel free to check out my [LeetCode profile](https://leetcode.com/0x17io/). I solve problems during my downtime. I've also been a Texas UIL Computer Science (Java programming) coach for the past couple of years, I now use [PC^2](https://pc2ccs.github.io/) to run competitions, feel free to reach out if you're looking for someone to run your competition.
