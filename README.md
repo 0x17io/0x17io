@@ -7,14 +7,14 @@ Currently a mathematics and computer science teacher at the [La Joya High School
 ## GitHub Project Links
 For ease of navigation, here is a list of my main projects:
 
-- Mathematical Explorations
+- Mathematical Explorations (Flask)
   - [Vector Based Search Engine](https://github.com/0x17io/optimized_SearchEngine)
   
 - Cryptography Projects
   - [Python DES Implementation](https://github.com/0x17io/python_des_implementation)
   - [C++ RSA Implementation](https://github.com/0x17io/basic_rsa)
 
-- Database Projects
+- Database Projects (Django)
   - [Database Implementation](https://github.com/0x17io/database_servicez)
 
 ## Coding Practice
