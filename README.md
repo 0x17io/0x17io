@@ -2,7 +2,7 @@
 
 ## A Little About Me
 
-Currently a mathematics and computer science teacher at the [La Joya High School](https://ljhs.lajoyaisd.com/). Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/jose-ruben-espinoza/). My primarily programming languages of choice are Python, Java, and Rust. General intrests include deep learning applications, cybersecurity, and networking. In my spare time I also help local business owners set up an online presence and even write on [Medium](https://medium.com/@0x17). Right now I am currently a master's student at the University of Texas Rio Grande Valley where I am a member of the [Machine Learning Lab](https://miutrgv.github.io/).
+Currently a Programmer at [La Joya ISD](https://www.lajoyaisd.com/page/computer-services). Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/jose-ruben-espinoza/). My primarily programming languages of choice are Python, Java, and Rust. General intrests include deep learning applications, cybersecurity, and networking. In my spare time I also help local business owners set up an online presence and even write on [Medium](https://medium.com/@0x17). Right now I am currently a master's student at the University of Texas Rio Grande Valley where I am a member of the [Machine Learning Lab](https://miutrgv.github.io/).
 
 ## GitHub Project Links
 For ease of navigation, here is a list of my main projects:
